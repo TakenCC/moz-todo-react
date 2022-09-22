@@ -1,0 +1,13 @@
+.Icon-Menu {
+    width: 150px;
+    height: 86px;
+    background-color: #fff;
+    border-radius: 32px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 10px #222;
+
+    margin: auto 0;
+}
